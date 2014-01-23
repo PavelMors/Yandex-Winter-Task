@@ -1,0 +1,25 @@
+
+
+.nav_head li:after{
+    border: none;
+    display: none;
+    content:"";
+    position: absolute;
+    top:106px;
+    left: -1px;
+    width: 94px;
+    height: 32px;
+    background: url("i/select.png") no-repeat transparent;
+ }
+
+/*
+-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=-0.935717543517181, M12=-0.838670567945424, M21=0.5847012149877682, M22=-0.544639035015027, SizingMethod='auto expand')";
+filter: progid:DXImageTransform.Microsoft.Matrix(
+M11=-0.935717543517181,
+M12=-0.838670567945424,
+M21=0.5847012149877682,
+M22=-0.544639035015027,
+SizingMethod='auto expand');
+
+margin-left: -25px;
+margin-top: -5px;*/
